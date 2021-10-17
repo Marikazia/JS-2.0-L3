@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+}
+.text-center {
+    text-align: center;
+}
+.button-primary {
+    text-transform: uppercase;
+}
+.out-1, .out-2, .out-3, .out-4, .out-5, .out-6, .out-7, .out-8, .out-9, .out-10, .out-11, .out-12, .out-13, .out-14, .out-15, .out-16, .out-17-1, .out-17-2, .out-17-3, .out-18, .out-19, .out-20  {
+    background: #dcdcdc;
+    padding: 10px;
+}   
